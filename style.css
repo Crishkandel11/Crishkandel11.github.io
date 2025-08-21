@@ -11,3 +11,15 @@ img{
     width: 200px;
     
 }
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 650px;
+}
+
+.textcontainer{
+    height: 500px;
+}
